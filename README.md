@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atayiilmaz" alt="atayiilmaz" /></a> </p>
 
 - 📫 How to reach me **ataberkyiilmaz@outlook.com**
-- 👨‍💻 All of my projects are available at [atayiilmaz.github.io](atayiilmaz.github.io/index.html)
+- 👨‍💻 All of my projects are available at https://atayiilmaz.github.io/index.html
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
